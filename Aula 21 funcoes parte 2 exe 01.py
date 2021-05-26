@@ -11,7 +11,7 @@ def contador(i,f,p):
     while c<=f:
         print(f'{c}  ', end='')
         c +=p
-    print('FIM')
+    print('FIMMM')
 
 contador(2,10,2)
 
