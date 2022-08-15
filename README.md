@@ -1,2 +1,2 @@
-# exercicio-curso-gustavo-guanabara
+# exercicios-curso Python-gustavo-guanabara
  
